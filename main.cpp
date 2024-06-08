@@ -1,13 +1,10 @@
-// including header files
 #include<iostream>
 #include<conio.h>
 #include<fstream>
 using namespace std;
 
-//global variables
 string fname,lname,phone_num;
 
-// Functions
 void addContact();
 void searchContact();
 void help();
